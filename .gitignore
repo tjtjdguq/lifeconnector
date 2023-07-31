@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+LifeConnector_SpringMVC.iml
 
 ### Eclipse ###
 .apt_generated
@@ -27,3 +28,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/compiler.xml
+/.idea/encodings.xml
+/web/index.jsp
+/.idea/jarRepositories.xml
+/target/classes/controller/MainController.class
+/.idea/misc.xml
+/.idea/modules.xml
+/springmvc.iml
+/.idea/artifacts/springmvc_jar.xml
+/target/classes/Model/Vo/TestVo.class
+/.idea/vcs.xml
+/.idea/workspace.xml
