@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 LifeConnector_SpringMVC.iml
+.idea/
 
 ### Eclipse ###
 .apt_generated

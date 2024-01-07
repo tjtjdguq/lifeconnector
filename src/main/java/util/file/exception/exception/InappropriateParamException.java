@@ -1,4 +1,4 @@
-package util.file;
+package util.file.exception;
 
 public class InappropriateParamException extends Exception {
     public InappropriateParamException() {
