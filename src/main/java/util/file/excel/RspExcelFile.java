@@ -25,6 +25,7 @@ public class RspExcelFile extends ExcelFile implements ApplicationContextAware {
      * @throws InvalidDirectoryException creates blank excel file at /ccbss/excel/
      */
     public RspExcelFile() throws IOException, InvalidDirectoryException {
+        super();
     }
 
     /**
